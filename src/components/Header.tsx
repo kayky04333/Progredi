@@ -10,8 +10,8 @@ export const Header = () => {
               <GraduationCap className="w-8 h-8" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold">Sistema de Avaliação</h1>
-              <p className="text-sm text-primary-foreground/80">Gestão de Desempenho Escolar</p>
+              <h1 className="text-2xl font-bold">Progredi</h1>
+              <p className="text-sm text-primary-foreground/80">Sistema de Avaliação Escolar</p>
             </div>
           </div>
           <div className="flex items-center gap-4">
